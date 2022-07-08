@@ -1,5 +1,7 @@
 # docker-larabel
 
+## git clone後、 compose upしてからのワークフロー
+
 ## app コンテナに入ります。
 $ docker compose exec app bash
 
