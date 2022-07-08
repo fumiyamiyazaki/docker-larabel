@@ -1,6 +1,6 @@
 # docker-larabel
 
-# app コンテナに入ります。
+## app コンテナに入ります。
 $ docker compose exec app bash
 
 # 書き込み権限がないとキャッシュやログにエラーを書き込めないので、権限を付与しておきます。
